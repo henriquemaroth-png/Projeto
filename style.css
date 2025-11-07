@@ -11,6 +11,10 @@ footer p{
     font-size: 30px;
 }
 
+main aside{
+    background-color: aqua;
+}
+
 body{
     background-color: forestgreen;
 }
@@ -18,7 +22,14 @@ body{
 header h1{
     color: aquamarine;
 }
-
 header p{
     background-color: blueviolet;
+}
+main article{
+    background-color: brown;
+}
+
+p{
+    color: red;
+    background-color: white;
 }
